@@ -1,2 +1,3 @@
-# mytop100movie
-API, Database, CRUD - Application which let users set their top 100 movies.
+# Movie Ticketing System
+
+Implement movie ticketing system. This project is intended to learn about data consistency, clean coding and rearchitecting the apps from monolithics to microservices.
